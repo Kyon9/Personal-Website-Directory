@@ -22,12 +22,21 @@ export const PROJECTS: Project[] = [
     color: 'from-indigo-600 to-purple-800'
   },
   {
+    id: 'newyearphoto',
+    title: 'New Year Moments',
+    description: 'A cherished collection of memories and photos from our cross-year gathering with friends.',
+    url: 'https://newyearphoto.tanshuai.xyz',
+    icon: '🎆',
+    tags: ['Personal', 'Memories'],
+    color: 'from-rose-500 to-orange-500'
+  },
+  {
     id: 'pokemon',
-    title: 'PokeDex Hub',
-    description: 'A comprehensive visual database for Pokémon enthusiasts, featuring detailed stats and evolutions.',
+    title: 'Pokemon Battle Sim',
+    description: 'Challenge the arena in this tactical simulation where you master the power of a competitive Sun team.',
     url: 'https://pokemon.tanshuai.xyz',
-    icon: '⚡',
-    tags: ['Utility', 'Data', 'Gaming'],
+    icon: '☀️',
+    tags: ['Strategy', 'Game', 'Pokémon'],
     color: 'from-red-500 to-orange-600'
   },
   {
